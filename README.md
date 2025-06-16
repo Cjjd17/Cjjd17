@@ -1,4 +1,5 @@
-<h1 align="center">Olá! Eu sou o João Dias</h1>
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ola!+Eu+sou+o+Joao+Dias...;Bem-vindo+ao+meu+Perfil!" alt="Typing SVG" /></h1>
 <p align="center">
   🚀 Estudante de Desenvolvimento de Software <br>
   🎓 Futuro Engenheiro Informático <br>
