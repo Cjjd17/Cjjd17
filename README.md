@@ -13,7 +13,7 @@
 - 💼 Em estágio, a trabalhar com **C#** e **ASP.NET Core**
 - 🎯 Objetivo: Entrar na licenciatura em **Engenharia Informática**
 - 🌱 A aprender continuamente sobre **desenvolvimento web**, **APIs**, **bases de dados** e **negócios online**
-- 💡 Interesses: SaaS, e-commerce, automação, IA e empreendedorismo digital
+- 💡 Interesses: Programação, e-commerce, automação, IA.
 
 ---
 
@@ -32,8 +32,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cjjd17&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjjd17&layout=compact&theme=dark"/>
+  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=Cjjd17&show_icons=true&theme=radical" />
+  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjjd17&layout=compact&theme=dark"/>
 </p>
 
 ---
