@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o João Dias</h1>
+<h1 align="center">Olá! Eu sou o João Dias</h1>
 <p align="center">
   🚀 Estudante de Desenvolvimento de Software <br>
   🎓 Futuro Engenheiro Informático <br>
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cjjd17&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjjd17&layout=compact&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjjd17&layout=compact&theme=dark"/>
 </p>
 
 ---
