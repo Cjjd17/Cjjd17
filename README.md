@@ -1,7 +1,7 @@
 <h1 align="center">
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ola!+Eu+sou+o+Joao+Dias...;Bem-vindo+ao+meu+Perfil!" alt="Typing SVG" /></h1>
 <p align="center">
-  🚀 Estudante de Desenvolvimento de Software <br>
+  🚀 Estudante de Engenharia Informática <br>
   🎓 Futuro Engenheiro Informático <br>
   💻 Apaixonado por programação, tecnologia e inovação
 </p>
@@ -10,9 +10,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Atualmente a terminar o CTeSP em **Desenvolvimento de Software**
-- 💼 Em estágio, a trabalhar com **C#** e **ASP.NET Core**
-- 🎯 Objetivo: Entrar na licenciatura em **Engenharia Informática**
+- 🎓 Atualmente a terminar a Licenciatura em **Engenharia Informática**
 - 🌱 A aprender continuamente sobre **desenvolvimento web**, **APIs**, **bases de dados** e **negócios online**
 - 💡 Interesses: Programação, e-commerce, automação, IA.
 
