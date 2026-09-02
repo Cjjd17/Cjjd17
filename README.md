@@ -27,13 +27,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Cjjd17&show_icons=true&theme=radical" />
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjjd17&layout=compact&theme=dark"/>
-</p>
+</p> -->
 
 ---
 
