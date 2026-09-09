@@ -11,6 +11,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Atualmente a terminar a Licenciatura em **Engenharia Informática**
+- 🏢 Atualmente a trabalhar na **AON** (Assistência Online) como **Programador**
 - 🌱 A aprender continuamente sobre **desenvolvimento web**, **APIs**, **bases de dados** e **negócios online**
 - 💡 Interesses: Programação, e-commerce, automação, IA.
 
